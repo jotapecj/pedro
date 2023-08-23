@@ -1,1 +1,3 @@
-# pedro
+#<!DOCTYPE html> <html lang="pt-br"> <head> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link rel="stylesheet" type="text/css" href="estilo.css" media="screen"> <link rel="shortcut icon" href="Arquivo de Gabrieli 1.png" type="image/x-icon"> <title>minha página</title> </head> <body> <div class= "menu"><p class="menu-texto">Trilha- Premen 2</p></div> <div class= "cabec"> <img class="cabec-avatar" src="Arquivo de Gabrieli 1.png"> <p class="cabec-texto">Eu sou Gabrieli e tenho 16 anos</p> </div> <div class="corpo"> <div class="corpo-itens"><img class="corpo-itens-img" src="image 1.png".png"> <h3 class="corpo-itens-descricao-nome">Desenhar</h3> </div> <div class="corpo-itens"><img class="corpo-itens-img" src="Group 1.png".png"> <h3 class="corpo-itens-descricao-nome">Assistir séries</h3> </div> <d
+Caixa de entrada
+CL
